@@ -1,5 +1,5 @@
-*
-{
+<style>
+*{
     box-sizing: border-box;
 }
 header{
@@ -30,3 +30,4 @@ header{
     background-color: rgb(120, 124, 124); 
     font-weight: bold;
 }
+</style>
